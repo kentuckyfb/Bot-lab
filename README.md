@@ -1,4 +1,4 @@
-# SignalForge Bot Lab
+#Bot Lab
 
 Local-first crypto day-trading research dashboard. It tests short-interval bot predictions, simulates intraday entries and exits with fees and slippage, loads public Binance candles, and provides a live paper-trading feed.
 
